@@ -2227,7 +2227,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 59.5, y: 33.25, z: 0}
   m_MaxChunkCount: 16
@@ -3492,7 +3492,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -4748,7 +4748,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoNivel
-      value: 120
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoTermino.m_PersistentCalls.m_Calls.Array.data[1].m_Target

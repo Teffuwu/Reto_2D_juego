@@ -89736,7 +89736,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoNivel
-      value: 120
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoTermino.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -89745,6 +89745,10 @@ PrefabInstance:
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoTermino.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 7894966752922679857, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: m_Text
+      value: 0/80
       objectReference: {fileID: 0}
     - target: {fileID: 7894966753560875713, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: m_Pivot.x
